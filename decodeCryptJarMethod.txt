@@ -1,0 +1,1 @@
+Run the tool as follows:java -jar PasswordCrypter.jar --password SomePasswordDouble quote the clear text password if it contains spaces.The MySQL login details in /opt/jboss/server/default/deploy/mysql-ds.xml are sufficient for all database management activities.
