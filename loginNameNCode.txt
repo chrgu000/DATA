@@ -1,0 +1,417 @@
+Organisation:awsie
+Login Name:adm-mcrowley
+Password:spokey
+webaddress:
+
+我的git地址:
+https://github.com/jichangshuai/DATA
+
+git常用命令:
+http://www.cnblogs.com/springbarley/archive/2012/11/03/2752984.html
+http://www.cnblogs.com/cspku/articles/Git_cmds.html
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+http://www.cnblogs.com/voidsky/p/5490812.html
+
+git代码冲突解决办法
+http://blog.csdn.net/iefreer/article/details/7679631
+
+Git地址:
+10.10.1.14:aramark-RTFM.git
+
+ssh://scmgit@10.10.1.14/aramark-RTFM.git
+
+Git eclipse配置:
+http://blog.csdn.net/luckarecs/article/details/7427605
+http://jingyan.baidu.com/article/27fa7326b694d846f8271fd3.html
+
+Git 本地文件到远程仓库
+http://blog.csdn.net/dadaxiongdebaobao/article/details/52081826
+
+git 常用命令
+http://www.cnblogs.com/cspku/articles/Git_cmds.html
+
+git-push.html
+D:\Git\mingw64\share\doc\git-doc\git-push.html
+
+
+git-jenkins:
+http://10.10.1.13:8080/jenkins/job/aramark-RTFMJob/
+
+sonar:
+http://10.10.1.13:9000/projects/favorite
+
+CVS Configuration:
+user: shuang
+password:2zuku57u
+host:arm.aramark.eu
+repository path:/var/cvsroot
+
+schiffer.huang@orchestrallinc.cn
+2zuku57u
+
+OWASP中国:
+http://www.owasp.org.cn/
+
+OWASP Secure Coding Practices Quick Reference Guide 中文:
+http://www.owasp.org.cn/owasp-project/download/OWASP_SCP_Quick_Reference_GuideChinese.pdf
+http://www.infocool.net/kb/ASP/201610/197534.html
+强类型和弱类型:
+https://www.zhihu.com/question/19918532
+
+git ssh key 生成:
+http://blog.csdn.net/hustpzb/article/details/8230454/
+
+jenkin.ge@orchestrallinc.cn
+jenkin
+
+adam.wang@orchestrallinc.com
+aramark1
+
+Redmine
+https://alm.aramark.eu/redmine/
+
+https://neo.aramark.eu/vendors
+账号： wang-adam@aramark.eu
+密码： %GreenEarth%
+
+Jenkins网站:
+http://jenkins-ci.org/
+
+Jenkins私钥生成命令:
+/.ssh$ ssh-keygen -t rsa -P ''
+http://blog.csdn.net/wangmuming/article/details/22925873
+
+Jenkins:
+
+https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins(配置说明)
+https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
+http://blog.csdn.net/littlechang/article/details/8642149
+http://www.cnblogs.com/ceshisanren/p/5639869.html
+http://m.blog.csdn.net/article/details?id=50518959
+https://launchpad.net/ubuntu/+source/openjdk-7/
+
+Jenkins Email配置:
+http://blog.csdn.net/littlechang/article/details/8706322
+
+卸载Jenkins:
+http://stackoverflow.com/questions/11608996/how-to-uninstall-jenkins
+http://blog.csdn.net/qq_23464617/article/details/52034061
+
+数据库分页查询:
+http://www.cnblogs.com/ITtangtang/archive/2012/04/21/2462385.html
+
+GreenVPN:
+name:richard.ji
+password:richard.ji
+
+http://10.10.2.231:8080/srs/Dispatcher
+https://wsqa.aramark.eu/srs/Dispatcher
+https://wsuat.aramark.eu/srs/Dispatcher
+http://10.10.1.161:8080/srs/Dispatcher
+https://ws.aramark.eu/srs/Dispatcher
+
+jboss社区:
+https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Entity_Bean_Locking_and_Deadlock_Detection-Deadlock.html
+
+常用Linux命令:
+http://www.oschina.net/translate/useful-linux-commands-for-newbies
+
+Ant Configuration:
+http://www.cnblogs.com/QQParadise/articles/1622154.html
+
+Android:
+https://developer.android.com/studio/publish/versioning.html
+https://developer.android.com/studio/build/build-variants.html
+
+Github android-gradle:
+http://google.github.io/android-gradle-dsl/current/com.android.build.gradle.internal.dsl.BuildType.html#com.android.build.gradle.internal.dsl.BuildType:applicationIdSuffix
+
+Android Studio:
+https://segmentfault.com/a/1190000002401964
+https://gold.xitu.io/entry/570b79f071cfe4005fa5cda5/promote?utm_source=baidu&utm_medium=keyword&utm_content=android_studio_config&utm_campaign=q3_search
+
+
+Android gradle configuration translation:
+http://blog.csdn.net/ygldx/article/details/52346619
+
+Android Studio build gradle:
+http://blog.csdn.net/loongggdroid/article/details/47037413
+http://www.open-open.com/lib/view/open1456893798750.html
+
+AndroidChina:
+http://www.androidchina.net/
+
+Android APK签名:
+http://blog.csdn.net/buaaroid/article/details/49468055
+http://blog.csdn.net/jjwwmlp456/article/details/44942109
+https://developer.android.com/studio/publish/app-signing.html
+
+Google play store 不能登录问题:
+https://www.androidpit.com/how-to-fix-google-play-authentication-is-required-error
+SafeSoftLoki@gmail.com
+safesoft
+
+QA测试case：
+http://alm.aramark.eu/testrail/index.php?/
+login:sarah.ren@orchestrallinc.cn
+password:Password1
+
+
+"Facilities Helpdesk" <noreply@ws.aramark.eu>
+
+linux:
+http://cn.linux.vbird.org/
+http://www.cnblogs.com/ggjucheng/archive/2011/12/16/2290158.html
+http://www.92csz.com/study/linux/
+
+linux日常软件安装:
+http://blog.chinaunix.net/uid-22621462-id-1772077.html
+http://blog.csdn.net/xiazdong/article/details/7491077
+
+RTFM系统文档路径：
+http://10.10.2.231:8080/srshelp/admin/Real_Time_FM.htm#Access_to_Real_Time_FM_functions_and_data.htm
+
+http://www.tutorialspoint.com/
+
+DBUtils:
+https://mvnrepository.com/artifact/commons-dbutils/commons-dbutils/1.6
+
+jBCrypt:
+http://www.mindrot.org/projects/jBCrypt/
+
+JQuery:
+
+http://api.jquery.com/prop/
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=jquery%201.4.2&rsv_pq=f4b1477200000db4&rsv_t=93b5VkeW%2B%2FmrlCI0Ckm6GIKtDr4qRS3na16rULIW61w0bw2YJCkXmFY4YaU&rqlang=cn&rsv_enter=1&rsv_sug3=9&rsv_sug1=8&rsv_sug7=100
+
+zipalign:
+http://stackoverflow.com/questions/36916462/how-to-zipalign-the-apk-file-in-windows
+
+spring.io
+http://www.runoob.com/sqlite/sqlite-syntax.html
+
+taskman词汇解释：
+pSynch: Provisioning data synchronisation handler 
+tSynch: Task data synchronisation handler
+
+gradle:
+http://www.tuicool.com/articles/aquum2A
+
+EJB 3.x:
+http://wenku.baidu.com/view/a76a228a6529647d27285267.html
+http://wenku.baidu.com/view/9f223c1ea8114431b90dd836.html?from=search
+http://wenku.baidu.com/view/af87f8c50c22590102029d88.html?from=search
+http://www.cnblogs.com/edwardlauxh/archive/2012/08/10/2632292.html
+
+EJB:
+https://wenku.baidu.com/view/bc724736ee06eff9aef807b0.html
+
+SQLLite database升级：
+http://www.jcodecraeer.com/a/opensource/2014/1113/1971.html(下载xUtils有用)
+
+http://xutilsapi.oschina.mopaas.com/com/lidroid/xutils/DbUtils.html
+
+http://www.tuicool.com/articles/mui2E37
+
+http://www.cnblogs.com/liqw/p/4264925.html 跳版本升级
+http://www.cnblogs.com/zhwl/archive/2013/06/19/3144519.html 打包DbUtils进APK
+http://stackoverflow.com/questions/3424156/upgrade-sqlite-database-from-one-version-to-another   DbUtils实现onupgrade
+
+http://blog.csdn.net/mchdba/article/details/38921371
+http://www.cnblogs.com/etindex/archive/2009/03/10/1408210.html
+
+http://itindex.net/detail/51736-android-%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%8D%87%E7%BA%A7
+http://sqlite.org/lang_altertable.html
+http://blog.csdn.net/wuyuxing24/article/details/47104345 
+
+http://www.cnblogs.com/shannyn/archive/2012/06/09/2543334.html
+
+http://blog.csdn.net/zz_mm/article/details/7642127
+
+http://blog.csdn.net/jdsjlzx/article/details/46356013
+
+http://www.jianshu.com/p/5e1b1ac6d224
+
+http://www.cnblogs.com/liqw/p/4264925.html
+
+http://blog.csdn.net/jj120522/article/details/7948554
+
+.DTD文件：
+http://baike.baidu.com/link?url=P2PbCQqnBbyheiI0Qb7QpYLr9-IZyKQtkQwUkopFzmNyicBVngzpRjwRLskfl8Y9eRIWIC--QLzIL1tfUJQXaq
+
+
+-Dbuild.properties=F:\rb_5_9\srs\build-4.7.0.properties
+
+
+mySQL:
+
+QA:
+ip: 161.185.143.78
+user-name:srs
+password:adm1n123
+url:jdbc:mysql://BEMAC0RFMDBQ1:3306/srs_aws_qa_610?useUnicode=true&amp;characterEncoding=utf8
+driver:com.mysql.jdbc.Driver
+
+
+
+ip地址:10.10.2.231
+端口:3306
+用户名：srs
+密码:admin123
+
+Ubuntu server:
+
+ip地址:10.10.2.231
+User: administrator
+pwd:Aa123456
+port:22
+pathUrl:/home/administrator/temp
+
+ip地址:10.10.1.161
+端口:3306
+用户名：root
+密码:admin123
+
+Ubuntu server:
+
+ip地址:10.10.1.161
+User: user
+pwd:Aa123456
+port:22
+pathUrl:/home/user/temp
+
+
+数据库密码：adminrichard/richard.ji
+SecureCRT密码：richard.ji
+
+
+taskman:
+username: abyrne
+password: 09876
+
+
+qa账号：
+org:awsie
+username：Anthony
+password: y001
+
+account:raybaker
+pw:awsrb
+
+loginname:schiffer
+password:123
+
+
+http://www.runoob.com/bootstrap/bootstrap-css-overview.html
+http://www.runoob.com/bootstrap/bootstrap-navigation-elements.html(标签页)
+https://google-developers.appspot.com/chart/interactive/docs/gallery/piechart#data-format
+http://tool.oschina.net/
+https://developer.android.com/guide/components/loaders.html#summary(手机异步处理loaders)
+http://droidyue.com/blog/2014/11/08/bad-smell-of-asynctask-in-android/(Android中糟糕的AsyncTask)
+http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/4.4.4_r1/android/os/AsyncTask.java#AsyncTask(android.os.AsyncTask)
+http://blog.csdn.net/boyupeng/article/details/49001215(AsyncTask 使用和缺陷)
+http://www.2cto.com/kf/201510/445013.html(Loaders)
+http://blog.csdn.net/feiduclear_up/article/details/46817283(handler)
+
+date-range-picker:
+http://www.daterangepicker.com/
+https://github.com/longbill/jquery-date-range-picker
+http://tamble.github.io/jquery-ui-daterangepicker/
+
+JDK不同版本差异报错:
+http://www.cnblogs.com/xing901022/p/4172410.html
+
+JDK1.7 api:
+http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4
+
+jQuery api:
+http://api.jquery.com/find/
+http://api.jquery.com/selected-selector/
+
+EJB:
+http://blog.csdn.net/f128690011/article/details/1660014
+
+技术文档10.10.1.13
+
+好压压缩工具下载地址:
+http://haozip.2345.com/?update.htm
+
+mysql文档:
+https://dev.mysql.com/doc/refman/5.5/en/
+mqsql的acid
+http://baike.baidu.com/link?url=Is00WwrK0qLZbE1Jd6bnlCREpYucuX-PEMb4RHr1cSD7lWyo8QYM9wn-nb2cBz5NsMcsNdUTWX-EAagpmFIkE_
+
+Linux服务器性能监控制器:dstat
+http://dag.wiee.rs/home-made/dstat/#download
+
+Linux批量管理服务器开源工具:
+http://www.theether.org/pssh/
+
+sonar:
+https://wiki.jenkins-ci.org/display/JENKINS/CodeSonar+Plugin
+http://www.uml.org.cn/jchgj/201307251.asp
+
+请假系统url:
+http://10.10.1.212:5980/safesoftoapro
+
+spring-boot git url:
+https://github.com/spring-projects/spring-boot
+
+
+JOOQ(JAVA OBJECT ORIENTED QUERYING即Java面向对象查询)
+http://www.open-open.com/lib/view/open1472714056156.html
+
+intelliJ idea:
+http://www.blogjava.net/rockblue1988/archive/2014/10/25/418994.html
+
+SMS短信功能:
+http://blog.csdn.net/dengsilinming/article/details/7991865
+QR:
+http://goqr.me/api/
+http://pro.wwei.cn/open/api.html
+
+
+http://www.yunpian.com/admin/user_guide
+
+reCAPTCHA验证
+http://www.codeforge.cn/article/248543
+http://blog.csdn.net/tsyccnh/article/details/50978611
+
+Java获取http或https协议的json
+http://www.cnblogs.com/wangtj-19/p/5889056.html
+
+http://localhost:8080/srs/FaultReport?asset_uuid=8595fdc7-f52d-411f-9d89-c64f36da6778
+
+
+
+UAT	AWSUK 	adm-mcrowley	Bb123456
+	
+	AWSIE   rtaylor         Aa123456
+		gconnolly	Aa123456
+
+
+QA  AWSUK 
+		admin    Ss123456
+	   	raybaker  Ss123456
+	   	j.knight	Aa123456
+	   	adm-mcrowley	Ss123456
+        AWSIE
+		schiffer  Aa123456
+		Andrew    Cc123456(administrator)
+ 		rtaylor   Aa123456
+	   	robertson-derry@aramark.ie    Aa123456
+		adm-mcrowley	Melkor30(administrator)
+	EIRGRID
+		admin	Bb123456
+		adm-mcrowley	Aa123456
+	EUROPA
+		admin	Aa123456
+	GOOGLE	
+		adm-mcrowley	Aa123456
+	HSEL
+		admin	Aa123456
+	PROPERTY
+		admin	Aa123456
+	RSA
+		admin	Aa123456
